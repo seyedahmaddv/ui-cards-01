@@ -59,3 +59,6 @@ Here's an example of the profile card:
 
 ![Profile Card Preview](assets/card-01-hasan-tehrani-moghadam.jpg)
 
+![Profile Card Mobile Version Preview](assets/card-01-hasan-tehrani-moghadam-mobile-version.jpg)
+
+
