@@ -56,6 +56,7 @@ These variables control the theme colors, including primary, React, TypeScript, 
 ## Preview
 
 Here's an example of the profile card:
+[Link of Card 01 Hasan Tehrani Moghadam](https://seyedahmaddv.github.io/ui-cards-01/)
 
 ![Profile Card Preview](assets/card-01-hasan-tehrani-moghadam.jpg)
 
