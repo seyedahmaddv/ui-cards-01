@@ -57,5 +57,5 @@ These variables control the theme colors, including primary, React, TypeScript, 
 
 Here's an example of the profile card:
 
-![Profile Card Preview](assets/profile-card-preview.png)
+![Profile Card Preview](assets/card-01-hasan-tehrani-moghadam.jpg)
 
