@@ -1,25 +1,34 @@
-# ui-cards-01
-Profile Card for Hasan Tehrani Moghadam
+# 🕊️ Profile Card — Hasan Tehrani Moghadam
 
-Here’s a concise README description for your GitHub repository based on the HTML and CSS code provided:
+![Hasan Tehrani Moghadam](assets/card-01-hasan-tehrani-moghadam.jpg)
 
----
+A responsive and elegant **Profile Card** built with **HTML** and **CSS**, dedicated to **Martyr Hasan Tehrani Moghadam** — known as the *Father of Iran’s Missile Program*.  
+He was a visionary scientist, military strategist, and national hero whose dedication and innovation played a crucial role in advancing Iran’s defense capabilities.  
+This project serves as both a UI design exercise and a small tribute to his legacy.
 
-# Profile Card Component
 
-This project demonstrates a responsive **Profile Card** component built with HTML and CSS, featuring an interactive layout and hover effects. The card is designed to display a user's image, name, skills, and a brief description with a call-to-action button for more information. It is styled using custom CSS properties and modern web design techniques.
 
-## Features
+## ✨ Overview
 
-- **Profile Picture**: Displays a user’s profile picture with a hover effect.
-- **Skills Section**: Showcases the user’s skills (TypeScript, React, Vue) with links to their respective websites.
-- **Responsive Design**: Adjusts layout and styling based on screen size, optimized for both desktop and mobile devices.
-- **Hover Effects**: Interactive hover effects for skills and the card itself.
-- **Customizable**: Easily change colors and styles by modifying CSS variables.
+This project showcases a **responsive profile card component** designed with a clean and modern interface.  
+It features hover interactions, a flexible layout, and easy customization through CSS variables.
 
-## CSS Custom Properties (Variables)
+🔗 **Live Demo:** [View on GitHub Pages](https://seyedahmaddv.github.io/ui-cards-01/)
 
-The design uses a set of CSS custom properties (variables) for easy customization:
+
+
+## 🎨 Features
+
+- 🖼️ **Profile Picture:** Prominently displays Hasan Tehrani Moghadam’s portrait with smooth hover effects.  
+- 🧠 **Skills Section:** Includes icons and links for technologies such as TypeScript, React, and Vue.  
+- 📱 **Responsive Layout:** Fully adaptive design optimized for desktop and mobile screens.  
+- ✨ **Interactive Hover Effects:** Subtle animations for better engagement.  
+- ⚙️ **Easily Customizable:** Modify colors, themes, and content via CSS variables.  
+
+
+## 🧩 CSS Custom Properties
+
+The component uses CSS variables for consistent theming and easy customization:
 
 ```css
 :root {
@@ -33,33 +42,67 @@ The design uses a set of CSS custom properties (variables) for easy customizatio
   --background: #f8f8ff;
   --text: #262626;
 }
-```
+````
 
-These variables control the theme colors, including primary, React, TypeScript, and Vue colors, allowing for easy modification of the component's appearance.
+You can adjust these values to fit any color palette or design theme.
 
-## Structure
 
-- **HTML**: The profile card is structured using semantic HTML elements.
-- **CSS**: The layout is created using Flexbox, ensuring a clean, responsive design.
-  
-### File Breakdown:
-- `index.html`: Contains the structure of the profile card, including the user image, name, description, skills, and button.
-- `style.css`: Contains all the styles for the profile card, including responsive design for mobile screens.
-  
 
-## How to Use
+## 🧱 Project Structure
 
-1. Clone the repository.
-2. Open `index.html` in a browser to view the profile card.
-3. Customize the profile content and styles as needed.
+| File         | Description                                                                         |
+| ------------ | ----------------------------------------------------------------------------------- |
+| `index.html` | Main structure of the profile card, including image, name, skills, and description. |
+| `style.css`  | Styling and layout rules, including responsive design for various screen sizes.     |
+| `assets/`    | Contains images and other media used in the project.                                |
 
-## Preview
+The layout uses **Flexbox** for alignment and spacing, ensuring a minimal and clean appearance.
 
-Here's an example of the profile card:
-[Link of Card 01 Hasan Tehrani Moghadam](https://seyedahmaddv.github.io/ui-cards-01/)
+
+
+## ⚙️ How to Use
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/seyedahmaddv/ui-cards-01.git
+   ```
+2. **Open the Project**
+
+   ```bash
+   cd ui-cards-01
+   ```
+3. **Preview**
+
+   * Simply open `index.html` in your browser.
+4. **Customize**
+
+   * Edit `style.css` to adjust colors, sizes, or hover effects.
+   * Replace the images in the `assets/` folder if desired.
+
+
+
+## 🧾 Preview
+
+**Desktop Version:**
 
 ![Profile Card Preview](assets/card-01-hasan-tehrani-moghadam.jpg)
 
-![Profile Card Mobile Version Preview](assets/card-01-hasan-tehrani-moghadam-mobile-version.jpg)
+**Mobile Version:**
+
+![Mobile Version Preview](assets/card-01-hasan-tehrani-moghadam-mobile-version.jpg)
 
 
+
+## 🕊️ About Hasan Tehrani Moghadam
+
+**Hasan Tehrani Moghadam (1959 – 2011)** was an Iranian engineer, military commander, and one of the pioneers of Iran’s missile development program.
+He devoted his life to innovation, research, and strengthening his country’s defense capabilities. His commitment to science, strategy, and national progress continues to inspire new generations.
+
+
+
+## 🖋️ Author
+
+Created with ❤️ by [**Seyed Ahmad Gholami**](https://github.com/seyedahmaddv)
+📧 **[seyedahmaddv@gmail.com](mailto:seyedahmaddv@gmail.com)**
+🌐 [linkedin.com/in/seyedahmaddv](https://linkedin.com/in/seyedahmaddv)
