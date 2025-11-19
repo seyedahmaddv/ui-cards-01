@@ -13,7 +13,7 @@ This project serves as both a UI design exercise and a small tribute to his lega
 This project showcases a **responsive profile card component** designed with a clean and modern interface.  
 It features hover interactions, a flexible layout, and easy customization through CSS variables.
 
-🔗 **Live Demo:** [View on GitHub Pages](https://seyedahmaddv.github.io/ui-cards-01/)
+🔗 **Live Demo:** [View on GitHub Pages](https://seyedahmaddv.github.io/hasan-tehrani-card/)
 
 
 
